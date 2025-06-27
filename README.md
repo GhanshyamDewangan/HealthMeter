@@ -26,6 +26,6 @@ All records are stored in **Firebase Realtime Database**, and users can view the
 
 | Splash Screen | BMI Input | Result Page |
 |---------------|-----------|-------------|
-| ![](splash.jpg) | ![](home.jpg) | ![](history.jpg) |
+| (splash.jpg) | (home.jpg) |(history.jpg) |
 
 
