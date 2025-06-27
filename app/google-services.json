@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520512256249",
+    "project_id": "healthmeter-6d810",
+    "storage_bucket": "healthmeter-6d810.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520512256249:android:63f0c93fb0cc8f8ce34a28",
+        "android_client_info": {
+          "package_name": "com.example.healthmeter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzrz7K2kzHXiypRFGTMZ4qwM6tXbNtms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
