@@ -24,8 +24,9 @@ All records are stored in **Firebase Realtime Database**, and users can view the
 
 ## 📸 Screenshots
 
-| Splash Screen | Home Page | History Page |
-|---------------|-----------|--------------|
-| (splash.jpg) | (home.jpg) |(history.jpg) |
+- (splash.jpg)
+- (home.jpg)
+- (history.jpg)
+- (result.jpg)
 
 
